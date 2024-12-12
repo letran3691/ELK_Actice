@@ -56,7 +56,8 @@
 
 http://127.0.0.1:5601/app/management/stack/license_management (Example path)
 
-Drop file elastic8.json
+- Drop file elastic8.json
+
 ![img_1.png](images/img_1.png)
 ![img_2.png](images/img_2.png)
 
